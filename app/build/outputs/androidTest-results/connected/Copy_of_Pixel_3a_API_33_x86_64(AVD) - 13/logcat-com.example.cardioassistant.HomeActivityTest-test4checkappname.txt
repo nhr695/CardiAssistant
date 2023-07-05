@@ -1,0 +1,156 @@
+07-06 00:04:05.386 14334 14358 I TestRunner: started: test4checkappname(com.example.cardioassistant.HomeActivityTest)
+07-06 00:04:05.390   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41130
+07-06 00:04:05.391   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e39e70
+07-06 00:04:05.406   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3e310
+07-06 00:04:05.406   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3a170
+07-06 00:04:05.413 14334 14358 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-06 00:04:05.446   989  1120 D SplashScreenView: Build android.window.SplashScreenView{4503feb V.E...... ......ID 0,0-0,0}
+07-06 00:04:05.446   989  1120 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-06 00:04:05.446   989  1120 D SplashScreenView: Branding: view: android.view.View{4670148 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-06 00:04:05.480 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@626d71b in: PRE_ON_CREATE
+07-06 00:04:05.481 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-06 00:04:05.484   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f0926000]
+07-06 00:04:05.498   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f2832000 0x3f3158000]
+07-06 00:04:05.502   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f66fb000 0x3f7021000]
+07-06 00:04:05.515   989  1140 W Parcel  : Expecting binder but got null!
+07-06 00:04:05.548 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@626d71b in: CREATED
+07-06 00:04:05.551 14334 14334 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.cardioassistant.SplashActivity@626d71b
+07-06 00:04:05.553 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@626d71b in: STARTED
+07-06 00:04:05.554 14334 14334 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.cardioassistant.SplashActivity@626d71b
+07-06 00:04:05.556 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@626d71b in: RESUMED
+07-06 00:04:05.557 14334 14334 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.cardioassistant.SplashActivity@626d71b
+07-06 00:04:05.582   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f8000000 0x3f8926000]
+07-06 00:04:05.592   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f8926000 0x3f924c000]
+07-06 00:04:05.594   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f924c000 0x3f9b72000]
+07-06 00:04:05.597   989  1140 D EGL_emulation: app_time_stats: avg=5562.25ms min=5562.25ms max=5562.25ms count=1
+07-06 00:04:05.607   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:05.616 14334 14361 W Parcel  : Expecting binder but got null!
+07-06 00:04:05.627   614   647 W ziparchive: Unable to open '/data/app/~~CQAhIATh-ewxMf725pptGg==/com.example.cardioassistant-lkiRLI-wVJ9m3ms-Q5_6vA==/base.dm': No such file or directory
+07-06 00:04:05.630   614   647 I ActivityTaskManager: Displayed com.example.cardioassistant/.SplashActivity: +206ms
+07-06 00:04:05.644  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:05.648  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:05.648  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.cardioassistant fieldId=-1 fieldName=null extras=null}, false)
+07-06 00:04:05.650  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:05.670   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3c630
+07-06 00:04:05.670   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41a90
+07-06 00:04:05.722   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:05.849  2534 10892 I PBSessionCacheImpl: Deleted sessionId[11146338437364358] from persistence.
+07-06 00:04:05.853  1188  1531 D BtGatt.ScanManager: uid 10104 isForeground true scanMode -1
+07-06 00:04:05.854   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f930
+07-06 00:04:05.854   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41d90
+07-06 00:04:05.858   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41d90
+07-06 00:04:05.858   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f930
+07-06 00:04:05.858   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:05.858   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:05.858   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:05.869  1188  1531 D BtGatt.ScanManager: uid 10104 isForeground true scanMode -1
+07-06 00:04:05.871   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40ad0
+07-06 00:04:05.884  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:05.897  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:05.897  2534  2780 W SearchServiceCore: Abort, client detached.
+07-06 00:04:05.901  2534  2780 I MicroDetectionState: Should stop hotword detection immediately - true
+07-06 00:04:05.901  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:05.902  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:05.962   614  2184 W InputManager-JNI: Input channel object '9c8ad09 Splash Screen com.example.cardioassistant (client)' was disposed without first being removed with the input manager!
+07-06 00:04:06.012   989  1119 W FrameTracker: Missed App frame:JANK_APP_DEADLINE_MISSED, 95300, 27819458, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-06 00:04:06.014   989  1119 W FrameTracker: Missed SF frame:UNKNOWN: 80, 95461, 23672196, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-06 00:04:06.016   989  1119 W FrameTracker: Missing HWUI jank callback for vsyncId: 95512, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-06 00:04:06.018   989  1119 W FrameTracker: Missing HWUI jank callback for vsyncId: 95534, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-06 00:04:06.019   989  1119 W FrameTracker: Missed App frame:UNKNOWN: 72, 95556, 68662532, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-06 00:04:06.020   989  1119 W FrameTracker: Missing SF jank callback for vsyncId: 95599, CUJ=J<SPLASHSCREEN_EXIT_ANIM>
+07-06 00:04:06.071   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:06.071   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:06.071   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:06.071   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:06.071   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:06.071   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:06.121   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3e130
+07-06 00:04:06.121   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3a890
+07-06 00:04:06.122   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ce70
+07-06 00:04:06.122   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ce70
+07-06 00:04:06.130   989  1140 D EGL_emulation: app_time_stats: avg=26.51ms min=2.35ms max=83.43ms count=36
+07-06 00:04:06.839 14334 14334 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Cardiac Assistant"
+07-06 00:04:06.859   989  1120 D SplashScreenView: Build android.window.SplashScreenView{e814c78 V.E...... ......ID 0,0-0,0}
+07-06 00:04:06.859   989  1120 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-06 00:04:06.859   989  1120 D SplashScreenView: Branding: view: android.view.View{f2a4f51 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-06 00:04:06.861 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@626d71b in: PAUSED
+07-06 00:04:06.862 14334 14334 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.cardioassistant.SplashActivity@626d71b
+07-06 00:04:06.888   386   386 D Zygote  : Forked child process 14446
+07-06 00:04:06.896   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f0000000 0x3f0926000]
+07-06 00:04:06.899 14446 14446 I oassistant.test: Late-enabling -Xcheck:jni
+07-06 00:04:06.908   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f0cc0000 0x3f15e6000]
+07-06 00:04:06.911   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f15e6000 0x3f1f0c000]
+07-06 00:04:06.916   989  1140 W Parcel  : Expecting binder but got null!
+07-06 00:04:06.933   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f1f0c000 0x3f24e7000]
+07-06 00:04:06.934 14446 14446 W oassistant.test: Unexpected CPU variant for x86: x86_64.
+07-06 00:04:06.934 14446 14446 W oassistant.test: Known variants: atom, sandybridge, silvermont, kabylake, default
+07-06 00:04:06.944   479   506 I adbd    : jdwp connection from 14446
+07-06 00:04:07.021 14446 14446 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10159; state: ENABLED
+07-06 00:04:07.033 14446 14446 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-06 00:04:07.035 14446 14446 D nativeloader: Configuring classloader-namespace for other apk /system/framework/android.test.mock.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~5m3jOn5UEzFJSw5o0eapig==/com.example.cardioassistant.test-49bVX8uEahdW4owGxATULg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.cardioassistant.test
+07-06 00:04:07.038 14446 14446 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+07-06 00:04:07.039 14446 14446 W oassistant.test: ClassLoaderContext shared library size mismatch. Expected=0, found=2 (PCL[] | PCL[]{PCL[/system/framework/android.test.base.jar*1628045882]#PCL[/system/framework/android.test.mock.jar*849501951]})
+07-06 00:04:07.041 14446 14446 D nativeloader: Configuring classloader-namespace for other apk /system/framework/android.test.runner.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~5m3jOn5UEzFJSw5o0eapig==/com.example.cardioassistant.test-49bVX8uEahdW4owGxATULg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.cardioassistant.test
+07-06 00:04:07.043 14446 14446 W ziparchive: Unable to open '/data/app/~~5m3jOn5UEzFJSw5o0eapig==/com.example.cardioassistant.test-49bVX8uEahdW4owGxATULg==/base.dm': No such file or directory
+07-06 00:04:07.043 14446 14446 W ziparchive: Unable to open '/data/app/~~5m3jOn5UEzFJSw5o0eapig==/com.example.cardioassistant.test-49bVX8uEahdW4owGxATULg==/base.dm': No such file or directory
+07-06 00:04:07.137   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ef70
+07-06 00:04:07.144   989  1140 D EGL_emulation: app_time_stats: avg=27.82ms min=11.74ms max=79.76ms count=36
+07-06 00:04:07.221 14446 14446 D nativeloader: Configuring classloader-namespace for other apk /data/app/~~5m3jOn5UEzFJSw5o0eapig==/com.example.cardioassistant.test-49bVX8uEahdW4owGxATULg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~5m3jOn5UEzFJSw5o0eapig==/com.example.cardioassistant.test-49bVX8uEahdW4owGxATULg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.cardioassistant.test
+07-06 00:04:07.234 14446 14446 V GraphicsEnvironment: ANGLE Developer option for 'com.example.cardioassistant.test' set to: 'default'
+07-06 00:04:07.235 14446 14446 V GraphicsEnvironment: ANGLE GameManagerService for com.example.cardioassistant.test: false
+07-06 00:04:07.235 14446 14446 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+07-06 00:04:07.246 14446 14446 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-06 00:04:07.246 14446 14446 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+07-06 00:04:07.267 14446 14476 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+07-06 00:04:07.280 14446 14476 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+07-06 00:04:07.287 14446 14476 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+07-06 00:04:07.337   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.337   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.337   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.338   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.338   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.338   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.338   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.338   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.338   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.338   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.341   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f24e7000 0x3f2ac2000]
+07-06 00:04:07.387 14446 14474 D HostConnection: createUnique: call
+07-06 00:04:07.388   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.388   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.388   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:07.394 14446 14474 D HostConnection: HostConnection::get() New Host Connection established 0x76778ed13790, tid 14474
+07-06 00:04:07.400 14446 14474 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+07-06 00:04:07.401 14446 14474 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-06 00:04:07.402 14446 14474 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+07-06 00:04:07.412 14446 14474 D EGL_emulation: eglCreateContext: 0x76778ed15350: maj 2 min 0 rcv 2
+07-06 00:04:07.440 14446 14474 D EGL_emulation: eglMakeCurrent: 0x76778ed15350: ver 2 0 (tinfo 0x7679b77fd080) (first time)
+07-06 00:04:07.448   227   227 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+07-06 00:04:07.448 14446 14474 I Gralloc4: mapper 4.x is not supported
+07-06 00:04:07.449 14446 14474 D HostConnection: createUnique: call
+07-06 00:04:07.450 14446 14474 D HostConnection: HostConnection::get() New Host Connection established 0x76778ed13490, tid 14474
+07-06 00:04:07.450 14446 14474 D goldfish-address-space: allocate: Ask for block of size 0x100
+07-06 00:04:07.451 14446 14474 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3efffe000 size 0x2000
+07-06 00:04:07.452   227   227 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+07-06 00:04:07.452   226   226 I servicemanager: Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest.
+07-06 00:04:07.453 14446 14474 W Gralloc4: allocator 4.x is not supported
+07-06 00:04:07.455   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f66fb000 0x3f7021000]
+07-06 00:04:07.456   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3edf0
+07-06 00:04:07.456   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3b910
+07-06 00:04:07.456   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3b910
+07-06 00:04:07.456   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3edf0
+07-06 00:04:07.456   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3b910
+07-06 00:04:07.457   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3edf0
+07-06 00:04:07.466 14446 14474 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+07-06 00:04:07.468   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f5499000 0x3f5dbf000]
+07-06 00:04:07.471   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e38a90
+07-06 00:04:07.476   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f5dbf000 0x3f66e5000]
+07-06 00:04:07.490 14446 14474 W Parcel  : Expecting binder but got null!
+07-06 00:04:07.508 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@626d71b in: STOPPED
+07-06 00:04:07.513  1188  1531 D BtGatt.ScanManager: uid 10104 isForeground true scanMode -1
+07-06 00:04:07.513  1188  1531 D BtGatt.ScanManager: uid 10104 isForeground true scanMode -1
+07-06 00:04:07.518   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f4000000 0x3f4926000]
+07-06 00:04:07.518 14334 14334 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.cardioassistant.SplashActivity@626d71b
+07-06 00:04:07.520 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@626d71b in: DESTROYED
+07-06 00:04:07.520 14334 14334 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-06 00:04:07.522 14334 14358 I TestRunner: finished: test4checkappname(com.example.cardioassistant.HomeActivityTest)

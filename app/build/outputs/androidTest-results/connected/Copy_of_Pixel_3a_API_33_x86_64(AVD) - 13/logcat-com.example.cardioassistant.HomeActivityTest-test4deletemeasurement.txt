@@ -1,0 +1,468 @@
+07-06 00:04:33.592 14334 14358 I TestRunner: started: test4deletemeasurement(com.example.cardioassistant.HomeActivityTest)
+07-06 00:04:33.592   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3bb50
+07-06 00:04:33.592   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ccf0
+07-06 00:04:33.600 14334 14358 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+07-06 00:04:33.606   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e401d0
+07-06 00:04:33.607   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3e430
+07-06 00:04:33.607   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3db30
+07-06 00:04:33.618   989  1120 D SplashScreenView: Build android.window.SplashScreenView{240ab98 V.E...... ......ID 0,0-0,0}
+07-06 00:04:33.618   989  1120 D SplashScreenView: Icon: view: null drawable: null size: 0
+07-06 00:04:33.618   989  1120 D SplashScreenView: Branding: view: android.view.View{9618ff1 G.ED..... ......I. 0,0-0,0 #10204db android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+07-06 00:04:33.650   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec926000]
+07-06 00:04:33.670   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ee498000 0x3eedbe000]
+07-06 00:04:33.674   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3eedbe000 0x3ef6e4000]
+07-06 00:04:33.676 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@f378743 in: PRE_ON_CREATE
+07-06 00:04:33.676 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+07-06 00:04:33.712   989  1140 W Parcel  : Expecting binder but got null!
+07-06 00:04:33.747 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@f378743 in: CREATED
+07-06 00:04:33.747 14334 14334 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.cardioassistant.SplashActivity@f378743
+07-06 00:04:33.751 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@f378743 in: STARTED
+07-06 00:04:33.752 14334 14334 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.cardioassistant.SplashActivity@f378743
+07-06 00:04:33.762 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@f378743 in: RESUMED
+07-06 00:04:33.762 14334 14334 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.cardioassistant.SplashActivity@f378743
+07-06 00:04:33.770   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3f39a2000 0x3f3bec000]
+07-06 00:04:33.778   614  5740 D HostConnection: createUnique: call
+07-06 00:04:33.778   614  5740 D HostConnection: HostConnection::get() New Host Connection established 0x76778ed43f10, tid 5740
+07-06 00:04:33.787   614  5740 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+07-06 00:04:33.791   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:33.791   614  5740 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+07-06 00:04:33.792   614  5740 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+07-06 00:04:33.810   614  5740 D EGL_emulation: eglCreateContext: 0x76778ed3f1d0: maj 2 min 0 rcv 2
+07-06 00:04:33.827   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3f66fb000 0x3f7021000]
+07-06 00:04:33.861   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3f5499000 0x3f5dbf000]
+07-06 00:04:33.864   614  5740 D EGL_emulation: eglMakeCurrent: 0x76778ed3f1d0: ver 2 0 (tinfo 0x7679a1d6b180) (first time)
+07-06 00:04:33.864   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3f5dbf000 0x3f66e5000]
+07-06 00:04:33.866   614  2234 D HostConnection: createUnique: call
+07-06 00:04:33.878   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e42690
+07-06 00:04:33.880   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e42cf0
+07-06 00:04:33.881   989  1140 D EGL_emulation: app_time_stats: avg=14797.50ms min=14797.50ms max=14797.50ms count=1
+07-06 00:04:33.885   614  2234 D HostConnection: HostConnection::get() New Host Connection established 0x76778ed2b0d0, tid 2234
+07-06 00:04:33.899   614  2234 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_vulkan_queue_submit_with_commands ANDROID_EMU_sync_buffer_data ANDROID_EMU_vulkan_async_qsri ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+07-06 00:04:33.907 14334 14361 W Parcel  : Expecting binder but got null!
+07-06 00:04:33.921   614   647 W ziparchive: Unable to open '/data/app/~~CQAhIATh-ewxMf725pptGg==/com.example.cardioassistant-lkiRLI-wVJ9m3ms-Q5_6vA==/base.dm': No such file or directory
+07-06 00:04:33.924   614   647 I ActivityTaskManager: Displayed com.example.cardioassistant/.SplashActivity: +315ms
+07-06 00:04:34.015  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:34.018  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:34.018  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.cardioassistant fieldId=-1 fieldName=null extras=null}, false)
+07-06 00:04:34.022   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.022   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.022   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.022   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.023   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.023   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.023   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.023   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.030  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:34.038   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3e9d0
+07-06 00:04:34.038   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40c50
+07-06 00:04:34.038   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40c50
+07-06 00:04:34.038   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3e9d0
+07-06 00:04:34.040   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.060  1188  1531 D BtGatt.ScanManager: uid 10104 isForeground true scanMode -1
+07-06 00:04:34.061  1188  1531 D BtGatt.ScanManager: uid 10104 isForeground true scanMode -1
+07-06 00:04:34.072   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3d5f0
+07-06 00:04:34.084  2534 10893 I PBSessionCacheImpl: Deleted sessionId[11146338437364360] from persistence.
+07-06 00:04:34.105   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3aad0
+07-06 00:04:34.105   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ad10
+07-06 00:04:34.116  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:34.122   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.123   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:34.126  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:34.129  2534  2780 W SearchServiceCore: Abort, client detached.
+07-06 00:04:34.133  2534  2780 I MicroDetectionState: Should stop hotword detection immediately - true
+07-06 00:04:34.135  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:34.141  2534  2780 I A       : Using proto config with mendel
+07-06 00:04:34.221   614  2384 W InputManager-JNI: Input channel object '36869e8 Splash Screen com.example.cardioassistant (client)' was disposed without first being removed with the input manager!
+07-06 00:04:34.274   989  1140 D EGL_emulation: app_time_stats: avg=32.60ms min=1.17ms max=113.77ms count=30
+07-06 00:04:34.387   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40350
+07-06 00:04:34.388   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ef70
+07-06 00:04:34.388   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3da10
+07-06 00:04:34.388   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3da10
+07-06 00:04:34.389   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ef70
+07-06 00:04:35.374   989  1140 D EGL_emulation: app_time_stats: avg=26.97ms min=6.94ms max=100.08ms count=40
+07-06 00:04:36.762 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@f378743 in: PAUSED
+07-06 00:04:36.762 14334 14334 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.cardioassistant.SplashActivity@f378743
+07-06 00:04:36.770 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.LoginActivity@1f9ee95 in: PRE_ON_CREATE
+07-06 00:04:36.770 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.LoginActivity }, activity=com.example.cardioassistant.LoginActivity@1f9ee95
+07-06 00:04:36.781 14334 14334 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+07-06 00:04:36.790 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.LoginActivity@1f9ee95 in: CREATED
+07-06 00:04:36.790 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.LoginActivity }, activity=com.example.cardioassistant.LoginActivity@1f9ee95
+07-06 00:04:36.791 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.LoginActivity@1f9ee95 in: STARTED
+07-06 00:04:36.792 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.LoginActivity }, activity=com.example.cardioassistant.LoginActivity@1f9ee95
+07-06 00:04:36.794 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.LoginActivity@1f9ee95 in: RESUMED
+07-06 00:04:36.794 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.LoginActivity }, activity=com.example.cardioassistant.LoginActivity@1f9ee95
+07-06 00:04:36.816   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec926000]
+07-06 00:04:36.818 14334 14334 D AutofillManager: Trigger fill request at view entered
+07-06 00:04:36.836   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ec926000 0x3ed24c000]
+07-06 00:04:36.839   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ed24c000 0x3edb72000]
+07-06 00:04:36.845 14334 14361 W Parcel  : Expecting binder but got null!
+07-06 00:04:36.854   614   647 I ActivityTaskManager: Displayed com.example.cardioassistant/.LoginActivity: +102ms
+07-06 00:04:36.858 14334 14334 I AssistStructure: Flattened final assist data: 1760 bytes, containing 1 windows, 8 views
+07-06 00:04:36.880   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3efe9f000 0x3efea2000]
+07-06 00:04:36.882   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3efea2000 0x3efea5000]
+07-06 00:04:36.893   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3efea5000 0x3eff90000]
+07-06 00:04:36.905   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3edb72000 0x3edc5d000]
+07-06 00:04:36.917   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3edc5d000 0x3edd48000]
+07-06 00:04:36.923   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:36.932   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3edd48000 0x3ede33000]
+07-06 00:04:36.934   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:36.953   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:36.954   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:36.954   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:36.954   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:36.954   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:36.955   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:36.955   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:36.955   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:37.028  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:37.031  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:37.036  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.cardioassistant fieldId=-1 fieldName=null extras=null}, false)
+07-06 00:04:37.038   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ed90
+07-06 00:04:37.039   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:37.045  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:37.052  1353  1353 W svc     : Pending fill request while another request in the same session was triggered. [CONTEXT service_id=177 ]
+07-06 00:04:37.064  1740  1740 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1961346905
+07-06 00:04:37.069  1353  1378 I .gms.persistent: oneway function results for code 1 on binder at 0x76771edb0430 will be dropped but finished with status UNKNOWN_TRANSACTION and reply parcel size 80
+07-06 00:04:37.421   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40dd0
+07-06 00:04:37.422   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f990
+07-06 00:04:37.422   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e42ed0
+07-06 00:04:37.423   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f510
+07-06 00:04:37.424   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40110
+07-06 00:04:37.424   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e38a90
+07-06 00:04:37.425   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40110
+07-06 00:04:37.425   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40dd0
+07-06 00:04:37.431 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@f378743 in: STOPPED
+07-06 00:04:37.431 14334 14334 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.cardioassistant.SplashActivity@f378743
+07-06 00:04:37.433 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.SplashActivity@f378743 in: DESTROYED
+07-06 00:04:37.433 14334 14334 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+07-06 00:04:37.435   614  2384 W InputManager-JNI: Input channel object '34459d7 com.example.cardioassistant/com.example.cardioassistant.SplashActivity (client)' was disposed without first being removed with the input manager!
+07-06 00:04:37.455   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f7b0
+07-06 00:04:37.455   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3fbd0
+07-06 00:04:39.059 14334 14334 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2131230983/com.example.cardioassistant:id/login_email_view>
+07-06 00:04:39.073 14334 14334 I ViewInteraction: Performing 'type text(ridoy@gmail.com)' action on view view.getId() is <2131230983/com.example.cardioassistant:id/login_email_view>
+07-06 00:04:39.076  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=858.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2117582, downTime=2117582, deviceId=-1, source=0x1002, displayId=0, eventId=-426566066 }
+07-06 00:04:39.115  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=858.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2117622, downTime=2117582, deviceId=-1, source=0x1002, displayId=0, eventId=-877314145 }
+07-06 00:04:39.119  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:39.119 14334 14334 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{c8b84d1 VFED..CL. .F.P..ID 31,710-1049,875 #7f080107 app:id/login_email_view aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+07-06 00:04:39.120  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:39.120  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x21(EmailAddress) imeOptions=0x8000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.cardioassistant fieldId=2131230983 fieldName=null extras=Bundle[mParcelledData.dataSize=240]}, false)
+07-06 00:04:39.121  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:39.126  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.127  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2023 onStartInputView(EditorInfo{inputType=0x21(EmailAddress) imeOptions=0x8000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.cardioassistant fieldId=2131230983 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}]}, false)
+07-06 00:04:39.133  1703  1833 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.133  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:39.136  1703  1703 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+07-06 00:04:39.136  1703  1703 I AndroidIME: AbstractIme.onActivate():91 LatinIme.onActivate() : EditorInfo = inputType=0x21(EmailAddress) imeOptions=0x8000005 privateImeOptions=null actionName=NEXT actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.cardioassistant fieldId=2131230983 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}], IncognitoMode = false, DeviceLocked = false
+07-06 00:04:39.137  1703  1703 I Delight5Facilitator: Delight5Facilitator.initializeForIme():777 initializeForIme() : Locale = [en_US], layout = qwerty
+07-06 00:04:39.137  1703  1703 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():55 cancelShutdown()
+07-06 00:04:39.138  1703  1703 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():67 syncLanguagePacks()
+07-06 00:04:39.138  1703  1703 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1295 inline flag updated to:false
+07-06 00:04:39.144  1703  1703 I KeyboardWrapper: KeyboardWrapper.consumeEvent():273 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+07-06 00:04:39.149  1703 11729 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():202 maybeScheduleAutoPackDownloadForFallback()
+07-06 00:04:39.151  1703 11729 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():196 maybeScheduleAutoPackDownload() for language tag en-US
+07-06 00:04:39.160  1703  1703 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+07-06 00:04:39.161  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.162  1703  1703 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+07-06 00:04:39.163  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.168  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.168  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.168  1703  1703 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+07-06 00:04:39.169  1703  1703 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+07-06 00:04:39.177  1703  1703 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$3.display():214 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION
+07-06 00:04:39.180  1703  1703 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-EmailInputType,}
+07-06 00:04:39.181  1703  1703 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():382 No private IME option set to start voice input.
+07-06 00:04:39.183 14334 14334 W OnBackInvokedCallback: OnBackInvokedCallback is not enabled for the application.
+07-06 00:04:39.183 14334 14334 W OnBackInvokedCallback: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+07-06 00:04:39.194  9712  9712 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:39.194  9712  9712 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:39.206   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3edb72000 0x3ee452000]
+07-06 00:04:39.210  9712  9712 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:39.223   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3ee452000 0x3eed32000]
+07-06 00:04:39.236  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.238  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:39.239  1703  1703 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+07-06 00:04:39.240  1703  2520 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():442 setKeyboardLayout()
+07-06 00:04:39.242 14334 14334 D InsetsController: show(ime(), fromIme=true)
+07-06 00:04:39.265   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3eed32000 0x3ef612000]
+07-06 00:04:39.265  9712  9712 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:39.266  9712  9712 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:39.279  9712  9712 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:39.357 14334 14334 D UiControllerImpl: Injecting string: "ridoy@gmail.com"
+07-06 00:04:39.364  1703  1703 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+07-06 00:04:39.364   614  2176 D InputDispatcher: Touch mode switch rejected, caller (pid=0, uid=10160) doesn't own the focused window nor none of the previously interacted window
+07-06 00:04:39.386  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{7060d72 I.E...... ......ID 116,0-952,121 #7f0b13d8 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+07-06 00:04:39.441   989  1140 D EGL_emulation: app_time_stats: avg=813.31ms min=30.93ms max=3769.13ms count=5
+07-06 00:04:39.449  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{7060d72 I.E...... ......ID 116,0-952,121 #7f0b13d8 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+07-06 00:04:39.485  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{7060d72 I.E...... ......ID 116,0-952,121 #7f0b13d8 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+07-06 00:04:39.514  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{7060d72 I.E...... ......ID 116,0-952,121 #7f0b13d8 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+07-06 00:04:39.558  1703  1703 W InputContextProxy: InputContextProxy.applyClientDiffInternal():920 Ignore [FetchSuggestions] diff due to stale request: 321<322, inputStateId=276, lastInputStateId=275
+07-06 00:04:39.563  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority com.google.android.apps.inputmethod.latin.keyboard.widget.LatinFixedCountCandidatesHolderView{7060d72 I.E...... ......ID 116,0-952,121 #7f0b13d8 app:id/softkey_holder_fixed_candidates} to show itself, PREEMPTIVE
+07-06 00:04:39.788 14334 14334 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+07-06 00:04:39.800  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2266
+07-06 00:04:39.801  1703  1703 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+07-06 00:04:39.806  1703  1703 I InputBundle: InputBundle.consumeEvent():894 Skip consuming an event as keyboard status is 0
+07-06 00:04:39.808  1703  1703 I KeyboardWrapper: KeyboardWrapper.consumeEvent():273 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+07-06 00:04:39.809  1703  1703 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():77 shutdown()
+07-06 00:04:39.813  1703  1703 I AndroidIME: AbstractIme.onDeactivate():213 LatinIme.onDeactivate()
+07-06 00:04:39.826  1703  5953 E native  : E0000 00:00:1688580279.966958    5953 keyboard.cc:26] Cannot create a keyboard with 0 valid keys
+07-06 00:04:39.954   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:39.961 14334 14334 I KeyEventActionBase: Back was pressed but there was no Activity stage transition in 150ms. Pressing back may trigger an activity stage transition if the activity is finished as a result. However, the activity may handle the back behavior in any number of other ways internally as well, such as popping the fragment back stack, dismissing a dialog, otherwise manually transacting fragments, etc.
+07-06 00:04:39.962 14334 14334 I ViewInteraction: Performing 'replace text()' action on view view.getId() is <2131230985/com.example.cardioassistant:id/login_password_view>
+07-06 00:04:39.974 14334 14334 I ViewInteraction: Performing 'type text(123456)' action on view view.getId() is <2131230985/com.example.cardioassistant:id/login_password_view>
+07-06 00:04:39.978  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1119.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2118485, downTime=2118485, deviceId=-1, source=0x1002, displayId=0, eventId=-271194372 }
+07-06 00:04:40.019  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1119.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2118526, downTime=2118485, deviceId=-1, source=0x1002, displayId=0, eventId=-837041709 }
+07-06 00:04:40.024  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:40.025 14334 14334 D InputMethodManager: showSoftInput() view=androidx.appcompat.widget.AppCompatEditText{4856b36 VFED..CL. .F.P..ID 31,971-1049,1136 #7f080109 app:id/login_password_view aid=1073741825} flags=0 reason=SHOW_SOFT_INPUT
+07-06 00:04:40.027  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:40.028  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x81(Password) imeOptions=0x4000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.cardioassistant fieldId=2131230985 fieldName=null extras=Bundle[mParcelledData.dataSize=240]}, false)
+07-06 00:04:40.032  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:40.035  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:40.036  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():2023 onStartInputView(EditorInfo{inputType=0x81(Password) imeOptions=0x4000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.cardioassistant fieldId=2131230985 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}]}, false)
+07-06 00:04:40.042  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:40.043  1703  1833 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:40.059  1703  1703 I KeyboardViewUtil: KeyboardViewUtil.getKeyboardHeightRatio():168 systemKeyboardHeightRatio:1.000000; userKeyboardHeightRatio:1.000000.
+07-06 00:04:40.060  1703  1703 I AndroidIME: AbstractIme.onActivate():91 PasswordIme.onActivate() : EditorInfo = inputType=0x81(Password) imeOptions=0x4000006 privateImeOptions=null actionName=DONE actionLabel=null actionId=0 initialSelStart=0 initialSelEnd=0 initialCapsMode=0x0 hintText=non-empty label=null packageName=com.example.cardioassistant fieldId=2131230985 fieldName=null extras=Bundle[{android.support.text.emoji.emojiCompat_metadataVersion=8, android.support.text.emoji.emojiCompat_replaceAll=false}], IncognitoMode = false, DeviceLocked = false
+07-06 00:04:40.062  1703  1703 I KeyboardViewHelper: KeyboardViewHelper.getView():168 Get view with height ratio:1.000000
+07-06 00:04:40.068  1703  1703 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+07-06 00:04:40.069  1703  1703 I KeyboardViewUtil: KeyboardViewUtil.calculateMaxKeyboardBodyHeight():44 leave 344 height for app when screen height:2088, header height:121 and isFullscreenMode:false, so the max keyboard body height is:1623
+07-06 00:04:40.070  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:40.071  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:40.071  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:40.072  1703  1703 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+07-06 00:04:40.073  1703  1703 I NormalModeController: NormalModeController.getKeyboardBodyViewHolderPaddingBottom():111 currentPrimeKeyboardType:SOFT systemPaddingBottom:-1
+07-06 00:04:40.077  1703  1703 I ProactiveSuggestionsHolderManager: ProactiveSuggestionsHolderManager$3.display():214 Requesting to show proactive suggestions: CLIPBOARD PREEMPTIVE_WITH_SUPPRESSION
+07-06 00:04:40.079  1703  1703 I CurrentMicStatusHolder: CurrentMicStatusHolder.onStartInputView():79 Current Mic status = {MicIconHidden-SettingOff,MicIconHidden-PasswordOrNumberOrDateInputType,}
+07-06 00:04:40.080  1703  1703 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomatically():382 No private IME option set to start voice input.
+07-06 00:04:40.083 14334 14334 W OnBackInvokedCallback: OnBackInvokedCallback is not enabled for the application.
+07-06 00:04:40.083 14334 14334 W OnBackInvokedCallback: Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+07-06 00:04:40.086 14334 14334 D InsetsController: show(ime(), fromIme=true)
+07-06 00:04:40.098  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:40.098  9712  9712 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:40.099  9712  9712 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:40.099  1703  1703 I DeviceModeUtil: DeviceModeUtil.getDeviceMode():117 Get device mode phone by ui mode:1 and smallestScreenWidthDp:393
+07-06 00:04:40.108  9712  9712 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:40.127  9712  9712 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:40.127  9712  9712 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:40.131  9712  9712 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.BIND_SHARED_PREFS pkg=com.google.android.gms }
+07-06 00:04:40.274 14334 14334 D UiControllerImpl: Injecting string: "123456"
+07-06 00:04:40.279   614  1978 D InputDispatcher: Touch mode switch rejected, caller (pid=0, uid=10160) doesn't own the focused window nor none of the previously interacted window
+07-06 00:04:40.292 14334 14361 D EGL_emulation: app_time_stats: avg=122.69ms min=11.31ms max=2233.28ms count=28
+07-06 00:04:40.296  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{8d6f189 I.E...... .......D 0,0-1080,121 #7f0b0399 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+07-06 00:04:40.307  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{8d6f189 I.E...... .......D 0,0-1080,121 #7f0b0399 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+07-06 00:04:40.328  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{8d6f189 I.E...... .......D 0,0-1080,121 #7f0b0399 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+07-06 00:04:40.344  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{8d6f189 I.E...... .......D 0,0-1080,121 #7f0b0399 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+07-06 00:04:40.359  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{8d6f189 I.E...... .......D 0,0-1080,121 #7f0b0399 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+07-06 00:04:40.376  1703  1703 I KeyboardViewController: KeyboardViewController.lambda$showSelfAndAncestors$6():610 current view doesn't has the priority android.widget.LinearLayout{8d6f189 I.E...... .......D 0,0-1080,121 #7f0b0399 app:id/key_pos_password_header_numbers} to show itself, DEFAULT
+07-06 00:04:40.379 14334 14334 I ViewInteraction: Performing 'send keyCode: 4, metaState: 0 key event' action on view view.getRootView() to equal view
+07-06 00:04:40.391  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2266
+07-06 00:04:40.392  1703  1703 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():159 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+07-06 00:04:40.392  1703  1703 I AndroidIME: AbstractIme.onDeactivate():213 PasswordIme.onDeactivate()
+07-06 00:04:40.410  1703  2382 D EGL_emulation: app_time_stats: avg=52.62ms min=2.39ms max=272.03ms count=20
+07-06 00:04:40.461   989  1140 D EGL_emulation: app_time_stats: avg=16.66ms min=8.98ms max=32.84ms count=59
+07-06 00:04:40.473   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:40.545 14334 14334 I KeyEventActionBase: Back was pressed but there was no Activity stage transition in 150ms. Pressing back may trigger an activity stage transition if the activity is finished as a result. However, the activity may handle the back behavior in any number of other ways internally as well, such as popping the fragment back stack, dismissing a dialog, otherwise manually transacting fragments, etc.
+07-06 00:04:40.547 14334 14334 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230984/com.example.cardioassistant:id/login_loginButton>
+07-06 00:04:40.550  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1438.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2119056, downTime=2119056, deviceId=-1, source=0x1002, displayId=0, eventId=-1055621896 }
+07-06 00:04:40.590  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1438.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2119097, downTime=2119056, deviceId=-1, source=0x1002, displayId=0, eventId=-114101138 }
+07-06 00:04:40.594 14334 14334 I FirebaseAuth: Logging in as ridoy@gmail.com with empty reCAPTCHA token
+07-06 00:04:40.597 14334 14390 W System  : Ignoring header X-Firebase-Locale because its value was null.
+07-06 00:04:40.602   458   578 D AudioFlinger: mixer(0x7ef9619749a0) throttle end: throttle time(33)
+07-06 00:04:41.065 14334 14390 W System  : Ignoring header X-Firebase-Locale because its value was null.
+07-06 00:04:41.137   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f810
+07-06 00:04:41.374 14334 14361 D EGL_emulation: app_time_stats: avg=153.12ms min=13.97ms max=500.19ms count=7
+07-06 00:04:41.480   989  1140 D EGL_emulation: app_time_stats: avg=17.30ms min=11.16ms max=35.61ms count=58
+07-06 00:04:41.482 14334 14390 D FirebaseAuth: Notifying id token listeners about user ( AUp9jigfbpRY3zMxcKIgScP5s532 ).
+07-06 00:04:41.497 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.LoginActivity@1f9ee95 in: PAUSED
+07-06 00:04:41.497 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.LoginActivity }, activity=com.example.cardioassistant.LoginActivity@1f9ee95
+07-06 00:04:41.510 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@a45b3e9 in: PRE_ON_CREATE
+07-06 00:04:41.511 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@a45b3e9
+07-06 00:04:41.525   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3efea5000 0x3efef0000]
+07-06 00:04:41.530   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3efef0000 0x3eff3b000]
+07-06 00:04:41.532 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@a45b3e9 in: CREATED
+07-06 00:04:41.533 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@a45b3e9
+07-06 00:04:41.533   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3eff3b000 0x3eff86000]
+07-06 00:04:41.535 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@a45b3e9 in: STARTED
+07-06 00:04:41.537 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@a45b3e9
+07-06 00:04:41.538 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@a45b3e9 in: RESUMED
+07-06 00:04:41.539 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@a45b3e9
+07-06 00:04:41.541   989  1140 W Parcel  : Expecting binder but got null!
+07-06 00:04:41.567   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3edb72000 0x3ee498000]
+07-06 00:04:41.570   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3ee498000 0x3eedbe000]
+07-06 00:04:41.576   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3eedbe000 0x3ef6e4000]
+07-06 00:04:41.647 14334 14361 W Parcel  : Expecting binder but got null!
+07-06 00:04:41.657   614   647 I ActivityTaskManager: Displayed com.example.cardioassistant/.HomeActivity: +168ms
+07-06 00:04:41.674   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3eff86000 0x3eff89000]
+07-06 00:04:41.675   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3eff89000 0x3eff8c000]
+07-06 00:04:41.686   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ef6e4000 0x3ef7cf000]
+07-06 00:04:41.693   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:41.706   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ef7cf000 0x3ef8ba000]
+07-06 00:04:41.710   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:41.713   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ef7cf000 0x3ef8ba000]
+07-06 00:04:41.722   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3f3bec000 0x3f3cd7000]
+07-06 00:04:41.730   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:41.808  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:41.809  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:41.810  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.cardioassistant fieldId=-1 fieldName=null extras=null}, false)
+07-06 00:04:41.810  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:41.825   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3b910
+07-06 00:04:42.206   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3de90
+07-06 00:04:42.207   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f990
+07-06 00:04:42.208   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e389d0
+07-06 00:04:42.208   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41f70
+07-06 00:04:42.210   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3bfd0
+07-06 00:04:42.212   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ec10
+07-06 00:04:42.213   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41f70
+07-06 00:04:42.214   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3de90
+07-06 00:04:42.224 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.LoginActivity@1f9ee95 in: STOPPED
+07-06 00:04:42.225 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.LoginActivity }, activity=com.example.cardioassistant.LoginActivity@1f9ee95
+07-06 00:04:42.254   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40230
+07-06 00:04:43.855   989  1140 D EGL_emulation: app_time_stats: avg=115.48ms min=7.26ms max=2012.76ms count=20
+07-06 00:04:44.097   614  2007 W InputManager-JNI: Input channel object '3d5287b Toast (client)' was disposed without first being removed with the input manager!
+07-06 00:04:44.106   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ce10
+07-06 00:04:44.106   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3e910
+07-06 00:04:44.106   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e412b0
+07-06 00:04:45.432  1703  1715 W SP      : File ref is being finalized but wasn't closed, file: en_cpu_16b072342fa0445f7b8dd639d078f18b[3]
+07-06 00:04:45.819 14334 14334 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131231091/com.example.cardioassistant:id/record_recycler_view>
+07-06 00:04:45.825  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1109.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2124329, downTime=2124329, deviceId=-1, source=0x1002, displayId=0, eventId=-285999842 }
+07-06 00:04:45.825 14334 14334 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+07-06 00:04:45.865  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=539.5, y[0]=1109.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2124372, downTime=2124329, deviceId=-1, source=0x1002, displayId=0, eventId=-742299657 }
+07-06 00:04:45.883 14334 14361 D EGL_emulation: app_time_stats: avg=295.37ms min=2.62ms max=3940.30ms count=14
+07-06 00:04:45.884   458   578 D AudioFlinger: mixer(0x7ef9619749a0) throttle end: throttle time(37)
+07-06 00:04:45.901 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@a45b3e9 in: PAUSED
+07-06 00:04:45.902 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@a45b3e9
+07-06 00:04:45.920   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:45.937 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.UpdateActivity@42f68ae in: PRE_ON_CREATE
+07-06 00:04:45.937 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.UpdateActivity (has extras) }, activity=com.example.cardioassistant.UpdateActivity@42f68ae
+07-06 00:04:45.950 14334 14334 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+07-06 00:04:45.967 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.UpdateActivity@42f68ae in: CREATED
+07-06 00:04:45.967 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.UpdateActivity (has extras) }, activity=com.example.cardioassistant.UpdateActivity@42f68ae
+07-06 00:04:45.968 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.UpdateActivity@42f68ae in: STARTED
+07-06 00:04:45.968 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.UpdateActivity (has extras) }, activity=com.example.cardioassistant.UpdateActivity@42f68ae
+07-06 00:04:45.969 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.UpdateActivity@42f68ae in: RESUMED
+07-06 00:04:45.969 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.UpdateActivity (has extras) }, activity=com.example.cardioassistant.UpdateActivity@42f68ae
+07-06 00:04:46.003   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec926000]
+07-06 00:04:46.018   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ec926000 0x3ed24c000]
+07-06 00:04:46.021   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3ed24c000 0x3edb72000]
+07-06 00:04:46.050 14334 14361 W Parcel  : Expecting binder but got null!
+07-06 00:04:46.085   614   647 I ActivityTaskManager: Displayed com.example.cardioassistant/.UpdateActivity: +207ms
+07-06 00:04:46.106   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3eff8c000 0x3eff8f000]
+07-06 00:04:46.108   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3eff8f000 0x3eff92000]
+07-06 00:04:46.116  1703  1703 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():81 initialize...
+07-06 00:04:46.117  1703  1703 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():70 onContentChanged()
+07-06 00:04:46.117  1703  1703 I ContactsDataManager: ContactsDataManager.onContentChanged():155 onContentChanged()
+07-06 00:04:46.117  1703  1703 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():93 initialize...done
+07-06 00:04:46.130 14334 14334 I AssistStructure: Flattened final assist data: 3000 bytes, containing 1 windows, 12 views
+07-06 00:04:46.141   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ef6e4000 0x3ef7cf000]
+07-06 00:04:46.155   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ef7cf000 0x3ef8ba000]
+07-06 00:04:46.158   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.158   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:46.158   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.158   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.158   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.159   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.160   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.165   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ef7cf000 0x3ef8ba000]
+07-06 00:04:46.179   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3f3bec000 0x3f3cd7000]
+07-06 00:04:46.181   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:46.187   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.262  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:46.264  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:46.264  1703  1703 W KeyboardViewController: KeyboardViewController.show():493 Requesting to show sub view with id 2131428249(#0x7f0b0399) when keyboard HEADER view is not ready to show
+07-06 00:04:46.264  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.cardioassistant fieldId=-1 fieldName=null extras=null}, false)
+07-06 00:04:46.265  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:46.266  1703  1703 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():238 startImportContentTask()
+07-06 00:04:46.267  1703  2287 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():252 doInBackground()
+07-06 00:04:46.268  1703  2287 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():111 LanguageTags = [en-US]
+07-06 00:04:46.270   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.271   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.286  1703  2287 I ShortcutsDataManager: AbstractContentDataManager.importRecords():342 importRecords() : Success : Count = 0
+07-06 00:04:46.292  1703  2287 I ShortcutsDataManager: AbstractContentDataManager.importContentData():292 importContentData() : Ending import process
+07-06 00:04:46.292  1703  2520 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():831 unloadLanguageModel() : 4, version [n/a]
+07-06 00:04:46.303   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.310  1703  2287 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():160 run() : Added 0 words and 0 shortcuts
+07-06 00:04:46.310  1703  2287 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():38 perform() : 4 : ccz : Completed
+07-06 00:04:46.310  1703  2520 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():626 loadLanguageModel() : 4, version [n/a]
+07-06 00:04:46.312  1703  1703 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():263 onPostExecute() : Result = [2,0]
+07-06 00:04:46.312  1703  1703 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():80 onImportFinished() : Result = 2 : Count = 0
+07-06 00:04:46.312  1703  2520 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():667 Loaded dynamic LM 4.en
+07-06 00:04:46.336   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.337   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.337   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.337   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.605   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:46.654   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40770
+07-06 00:04:46.656   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3abf0
+07-06 00:04:46.658   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3d110
+07-06 00:04:46.658   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3de30
+07-06 00:04:46.658   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ea90
+07-06 00:04:46.659   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e42270
+07-06 00:04:46.660   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3ea90
+07-06 00:04:46.660   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3abf0
+07-06 00:04:46.661 14334 14361 D OpenGLRenderer: endAllActiveAnimators on 0x76780ee23930 (MaterialCardView) with handle 0x76771ed7bf00
+07-06 00:04:46.666 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@a45b3e9 in: STOPPED
+07-06 00:04:46.666 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@a45b3e9
+07-06 00:04:46.688   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f150
+07-06 00:04:47.465 14334 14334 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230741/com.example.cardioassistant:id/Update_DeleteButton>
+07-06 00:04:47.471  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=787.0, y[0]=1870.5, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2125974, downTime=2125974, deviceId=-1, source=0x1002, displayId=0, eventId=-905249398 }
+07-06 00:04:47.498 14334 14361 D EGL_emulation: app_time_stats: avg=120.71ms min=15.22ms max=1103.62ms count=12
+07-06 00:04:47.511  1338  1338 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=787.0, y[0]=1870.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=BUTTON_PRIMARY, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=2126015, downTime=2125974, deviceId=-1, source=0x1002, displayId=0, eventId=-1001968701 }
+07-06 00:04:47.535   458   578 D AudioFlinger: mixer(0x7ef9619749a0) throttle end: throttle time(31)
+07-06 00:04:47.638   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:47.638   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:47.639   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:47.825 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.UpdateActivity@42f68ae in: PAUSED
+07-06 00:04:47.827 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.UpdateActivity (has extras) }, activity=com.example.cardioassistant.UpdateActivity@42f68ae
+07-06 00:04:47.845 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@819e665 in: PRE_ON_CREATE
+07-06 00:04:47.845 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@819e665
+07-06 00:04:47.847   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3eff92000 0x3effdd000]
+07-06 00:04:47.858   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3efea5000 0x3efef0000]
+07-06 00:04:47.863   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3efef0000 0x3eff3b000]
+07-06 00:04:47.869   989  1140 W Parcel  : Expecting binder but got null!
+07-06 00:04:47.880 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@819e665 in: CREATED
+07-06 00:04:47.881 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@819e665
+07-06 00:04:47.882 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@819e665 in: STARTED
+07-06 00:04:47.882 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@819e665
+07-06 00:04:47.884 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.HomeActivity@819e665 in: RESUMED
+07-06 00:04:47.884 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.HomeActivity }, activity=com.example.cardioassistant.HomeActivity@819e665
+07-06 00:04:47.916   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3edb72000 0x3ee498000]
+07-06 00:04:47.918   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3ee498000 0x3eedbe000]
+07-06 00:04:47.920   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3eedbe000 0x3ef6e4000]
+07-06 00:04:47.993 14334 14361 W Parcel  : Expecting binder but got null!
+07-06 00:04:48.001   614   647 I ActivityTaskManager: Displayed com.example.cardioassistant/.HomeActivity: +184ms
+07-06 00:04:48.006   411   453 D goldfish-address-space: claimShared: Ask to claim region [0x3effdd000 0x3effe0000]
+07-06 00:04:48.009   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3effe0000 0x3effe3000]
+07-06 00:04:48.018   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3ef6e4000 0x3ef7cf000]
+07-06 00:04:48.025   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.025   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.036   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3ef7cf000 0x3ef8ba000]
+07-06 00:04:48.038   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:48.045   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3ef7cf000 0x3ef8ba000]
+07-06 00:04:48.062   411   459 D goldfish-address-space: claimShared: Ask to claim region [0x3f3bec000 0x3f3cd7000]
+07-06 00:04:48.064   614  1526 W Parcel  : Expecting binder but got null!
+07-06 00:04:48.146  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3220
+07-06 00:04:48.147  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 0, unlocked = true
+07-06 00:04:48.148  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1919 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.cardioassistant fieldId=-1 fieldName=null extras=null}, false)
+07-06 00:04:48.149  1703  1703 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2114 repeatCheckTimes = 2, unlocked = true
+07-06 00:04:48.208   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.208   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.208   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.530   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3d650
+07-06 00:04:48.531   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41f70
+07-06 00:04:48.532   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e421b0
+07-06 00:04:48.533   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e40fb0
+07-06 00:04:48.533   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3f930
+07-06 00:04:48.534   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3dfb0
+07-06 00:04:48.540   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.541   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.541   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.543   470   493 W TransactionTracing: Could not find layer id -1
+07-06 00:04:48.545 14334 14334 D LifecycleMonitor: Lifecycle status change: com.example.cardioassistant.UpdateActivity@42f68ae in: STOPPED
+07-06 00:04:48.545 14334 14334 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.cardioassistant/.SplashActivity }, activity.getIntent()=Intent { cmp=com.example.cardioassistant/.UpdateActivity (has extras) }, activity=com.example.cardioassistant.UpdateActivity@42f68ae
+07-06 00:04:48.573   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3b730
+07-06 00:04:50.173   989  1140 D EGL_emulation: app_time_stats: avg=114.64ms min=1.87ms max=1989.96ms count=19
+07-06 00:04:50.414   614  1978 W InputManager-JNI: Input channel object 'c868a07 Toast (client)' was disposed without first being removed with the input manager!
+07-06 00:04:50.425   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e41670
+07-06 00:04:50.425   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e3abf0
+07-06 00:04:50.425   470   493 W TransactionTracing: Could not find layer handle 0x790bf1e406b0
+07-06 00:04:52.142  9712  9712 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+07-06 00:04:52.771 14334 14358 I TestRunner: finished: test4deletemeasurement(com.example.cardioassistant.HomeActivityTest)
