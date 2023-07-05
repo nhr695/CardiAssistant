@@ -1,0 +1,224 @@
+# 2023-07-05T18:04:55.410Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 4
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "HomeActivityTest"
+    test_package: "com.example.cardioassistant"
+    test_method: "test2addmeasurement"
+    start_time {
+      seconds: 1688580224
+      nanos: 102000000
+    }
+    end_time {
+      seconds: 1688580245
+      nanos: 693000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\logcat-com.example.cardioassistant.HomeActivityTest-test2addmeasurement.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeActivityTest"
+    test_package: "com.example.cardioassistant"
+    test_method: "test4checkappname"
+    start_time {
+      seconds: 1688580246
+      nanos: 306000000
+    }
+    end_time {
+      seconds: 1688580248
+      nanos: 443000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\logcat-com.example.cardioassistant.HomeActivityTest-test4checkappname.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeActivityTest"
+    test_package: "com.example.cardioassistant"
+    test_method: "test3updatemeasurement"
+    start_time {
+      seconds: 1688580248
+      nanos: 498000000
+    }
+    end_time {
+      seconds: 1688580273
+      nanos: 849000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\logcat-com.example.cardioassistant.HomeActivityTest-test3updatemeasurement.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HomeActivityTest"
+    test_package: "com.example.cardioassistant"
+    test_method: "test4deletemeasurement"
+    start_time {
+      seconds: 1688580274
+      nanos: 522000000
+    }
+    end_time {
+      seconds: 1688580293
+      nanos: 706000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\logcat-com.example.cardioassistant.HomeActivityTest-test4deletemeasurement.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\Lenovo\\AndroidStudioProjects\\CardioAssistant\\app\\build\\outputs\\androidTest-results\\connected\\Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

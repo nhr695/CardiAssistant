@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.cardioassistant.HomeActivityTest" tests="4" failures="0" errors="0" skipped="0" time="71.194" timestamp="2023-07-05T18:04:55" hostname="localhost">
+  <properties>
+    <property name="device" value="Copy_of_Pixel_3a_API_33_x86_64(AVD) - 13" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="test2addmeasurement" classname="com.example.cardioassistant.HomeActivityTest" time="21.61" />
+  <testcase name="test4checkappname" classname="com.example.cardioassistant.HomeActivityTest" time="2.135" />
+  <testcase name="test3updatemeasurement" classname="com.example.cardioassistant.HomeActivityTest" time="25.354" />
+  <testcase name="test4deletemeasurement" classname="com.example.cardioassistant.HomeActivityTest" time="19.195" />
+</testsuite>
